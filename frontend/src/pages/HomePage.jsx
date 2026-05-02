@@ -54,7 +54,7 @@ export default function HomePage({ trainingStatus }) {
         </h1>
 
         <p className="text-xl text-slate-400 mb-10 max-w-2xl leading-relaxed">
-          Our multi-model ML engine trains on real housing data, compares 10+ algorithms,
+          Our multi-model ML engine trains on real housing data, compares algorithms,
           and selects the best performer — giving you accurate price predictions instantly.
         </p>
 
